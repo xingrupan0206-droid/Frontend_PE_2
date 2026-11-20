@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+li{
+    font-size: 10px;
+}
+
+.card{
+    margin-left: 120px;
+}
